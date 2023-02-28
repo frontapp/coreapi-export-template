@@ -1,0 +1,17 @@
+{
+  "name": "coreapi-export-template",
+  "version": "1.0.0",
+  "description": "Export template application for Front Core API",
+  "license": "ISC",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "dependencies": {
+    "@types/needle": "^2.5.3",
+    "@types/node": "^18.11.9",
+    "dotenv": "^16.0.3",
+    "needle": "^3.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
