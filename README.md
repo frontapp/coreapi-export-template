@@ -1,6 +1,6 @@
 # Front Sample Application - CoreAPI Export
 This project provides an example application that customers can use as a starting point for exporting conversations
-Similar to the import sample application, this is an ETL script, with Front as the *extract* point rather than *load*. To learn more about using this sample application, visit our [Developer Portal](https://dev.frontapp.com/docs/sample-application##conversationmessage-export-application).
+Similar to the import sample application, this is an ETL script, with Front as the *extract* point rather than *load*. To learn more about using this sample application, visit our [Developer Portal](https://dev.frontapp.com/docs/sample-application#conversationmessage-export-application).
 
 ## Application Structure
 
