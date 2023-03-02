@@ -18,6 +18,7 @@ export type DateRange = {
 }
 
 // The "is:" search filter includes additional searchable statuses beyond those stored on the Conversation resource
+// Read more at https://dev.frontapp.com/docs/search-1#supported-search-filters
 export type SearchStatus = ConversationStatus | "open" | "snoozed" | "unreplied"
 
 export class FrontExport {
