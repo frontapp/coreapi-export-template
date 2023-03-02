@@ -6,7 +6,7 @@ const options : ExportOptions = {
     shouldIncludeAttachments: true
 }
 
-// Top level list of all inboxes available to the API key
+// Export all conversations from all inboxes available to the API key
 /*
 FrontExport.listInboxes()
 .then(inboxes => {
